@@ -1,2 +1,2 @@
 # FS_Analysis
-Analysis od Food Security in the US
+Analysis of Food Security in the US
